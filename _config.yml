@@ -2,5 +2,5 @@ markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://rainlandlee.github.io
 author: Rain
-pygments: true
+highlighter: pygments
 paginate: 24
