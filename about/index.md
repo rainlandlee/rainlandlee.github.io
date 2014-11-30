@@ -4,9 +4,9 @@ layout: page
 comments: yes
 ---
   
-##JIM    
+##Rain    
 
-个人邮箱:dashjim@gmail.com      
-新浪微博: [http://weibo.com/jijunxiang](http://weibo.com/jijunxiang)      
-github : [https://github.com/dashjim](https://github.com/dashjim)   
-Linkedin: [Ji Junxiang at Linkedin](http://www.linkedin.com/pub/junxiang-ji/58/97/b90)
+个人邮箱:rainland.lee@gmail.com      
+新浪微博: [http://weibo.com/lixiaolei211](http://weibo.com/lixiaolei211)      
+github : [https://github.com/rainlandlee](https://github.com/rainlandlee)   
+Linkedin: [Li Xiaolei at Linkedin](https://www.linkedin.com/pub/xiaolei-li/27/509/4a3)
