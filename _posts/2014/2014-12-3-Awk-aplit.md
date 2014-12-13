@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awk split with specail character
+title: Awk split with special character
 categories:
 - Programming
 tags:
