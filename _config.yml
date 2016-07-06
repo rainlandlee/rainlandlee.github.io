@@ -3,4 +3,6 @@ permalink: /:year/:month/:title/
 url: http://rainlandlee.github.io
 author: Rain
 highlighter: pygments
+gems: [jekyll-paginate]
 paginate: 24
+paginate_path: "page:num"
