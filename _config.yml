@@ -1,8 +1,10 @@
-markdown: rdiscount
+# markdown:  kramdown
+# markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://rainlandlee.github.io
 author: Rain
-highlighter: pygments
+# highlighter: rouge
+# highlighter: pygments
 gems: [jekyll-paginate]
 paginate: 24
 paginate_path: "page:num"

@@ -8,7 +8,7 @@ tags:
 ---
 
  
-##javah的使用方式##
+## javah的使用方式
 
 
 1. javah在JDK/bin路径下，与java同路径；

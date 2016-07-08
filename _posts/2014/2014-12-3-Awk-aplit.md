@@ -8,7 +8,7 @@ tags:
 ---
 
  
-##awk split使用特殊字符串做分割符##
+## awk split使用特殊字符串做分割符
 awk的`split`内置函数用于将字符串分割为字符数组，函数原型如下：
 
     num split(s, a [, r])
